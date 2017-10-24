@@ -5,10 +5,10 @@ Aşağıdaki tabloya kendi sınıfınızı, öğrenci ismini ve numaranızı yaz
 Sınıf | Öğrenci İsmi  | Numara
 -------|----------------|--------
 9-C  | Ahmet Salih İncibaş | 568
-9-C  | Sinan Demir |         571
+9-C  | Sinan Demir |         570
 9-C  | İsmail Kahraman |     555
 
-#  (Acoustic Levitation)
+#       Acoustic Levitation
 ## Özet
 Buraya projenin özetini yazınız. Özet kısa ve anlaşılır olmalıdır.  Proje özeti yaklaşık 150-250 kelime arasında olmalıdır. Özeti okuyan, proje hakkında doğru bir fikre sahip olabilmelidir. Proje özetinde; projenin amacı ve kullanılacak yöntemler özetlenecektir. 
 
