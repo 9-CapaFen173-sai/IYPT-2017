@@ -1,8 +1,4 @@
-
-
-Aşağıdaki tabloya kendi sınıfınızı, öğrenci ismini ve numaranızı yazınız. 
-
-Sınıf | Öğrenci İsmi  | Numara
+ Sınıf | Öğrenci İsmi  | Numara
 -------|----------------|--------
 9-C  | Ahmet Salih İncibaş | 568
 9-C  | Sinan Demir |         570
